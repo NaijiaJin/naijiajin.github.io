@@ -21,10 +21,8 @@
 
 - [Beyond Eyes- Self Project, Platform: PC](http://naijiajin.github.io/beyondeye)
  <img src="images/beyondcubecover.png"/>
- shit
- [![Foo](<img src="images/beyondcubecover.png"/>)](http://google.com.au/)
  
- <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+ <a href="http://google.com.au/" rel="some text">![Foo](<img src="images/beyondcubecover.png"/>)</a>
 
 - [Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
