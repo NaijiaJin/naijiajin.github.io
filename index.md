@@ -1,23 +1,23 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Build Virtual Worlds 
 
-[Project 1 Title](/sample_page)
+[ROUND1 Platform: HTC VIVE](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[ROUND2 Platform: Magic Leap](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[ROUND3 Platform: Kinect](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Undergraduates Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
