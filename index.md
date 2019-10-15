@@ -21,7 +21,7 @@
 
 - [Beyond Eyes- Self Project, Platform: PC](http://naijiajin.github.io/beyondeye)
  
- <a href="http://google.com.au/" rel="some text">![Foo]<img src="images/beyondcubecover.png"/> </a>
+ <a href=/sample_page rel="some text">![Foo]<img src="images/beyondcubecover.png"/> </a>
 
 - [Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
