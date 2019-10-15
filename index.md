@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 -----  
-   
+      
 ### Undergraduates Projects
 
 [Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page) 
