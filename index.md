@@ -27,14 +27,18 @@
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png"/> </a>
 
 
-- [Rick&Morty SuperBreakout, 2D, Platform: PC](http://example.com/)
+- [Rick&Morty SuperBreakout, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/coverrm.png"/> </a>
 
 - [Shadow Dancer, 2D, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/shadowcover.png"/> </a>
 
-- [Project 5 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Game or Mom, 2D, PC](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/momcover.png"/> </a>
+
+- [Livingroom 3D max project](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/livingroomcover.png"/> </a>
+
 
 ---
 
