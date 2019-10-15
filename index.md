@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[ROUND3, Platform: Kinect2.0](http://example.com/)
+[ROUND3, "Goal" in the wall, Platform: Kinect2.0](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 -----
@@ -32,7 +32,7 @@
 [Shadow Dancer, 2D, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/shadowcover.png"/> </a>
 
-[Game or Mom, 2D, PC](http://example.com/)
+[2019Global Game Jam-Game or Mom, 2D, PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/momcover.png"/> </a>
 
 [Livingroom 3D max project](http://example.com/)
