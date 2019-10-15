@@ -13,7 +13,7 @@
 
 ---
 [ROUND3, "Goal" in the wall, Platform: Kinect2.0](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> 
+<img src="images/goalcover.png"/> 
 
 -----  
       
@@ -37,6 +37,8 @@
 
 [Livingroom 3D max project](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/livingroomcover.png" /> </a>
+
+
 
 
 ---
