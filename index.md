@@ -4,15 +4,15 @@
     
 ### Build Virtual Worlds 
       
-[ROUND1, Platform: HTC VIVE](/sample_page)
+[ROUND1, Platform: HTC VIVE](https://naijiajin.github.io/Round1)
 <img src="images/round1cover.png"/>
 
 ---
-[ROUND2, Platform: Magic Leap](/pdf/sample_presentation.pdf)
+[ROUND2, Platform: Magic Leap](https://naijiajin.github.io/Round2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[ROUND3, "Goal" in the wall, Platform: Kinect2.0](http://example.com/)
+[ROUND3, "Goal" in the wall, Platform: Kinect2.0](https://naijiajin.github.io/Round3)
 <img src="images/goalcover.png"/> 
 
 -----  
