@@ -19,7 +19,7 @@
 
 ### Undergraduates Projects
 
-- [Beyond Eyes- Self Project, Platform: PC](http://naijiajin.github.io/beyondeye)
+- [Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page)
  
  <a href="https://naijiajin.github.io/sample_page" rel="some text">![Foo]<img src="images/beyondcubecover.png"/> </a>
 
