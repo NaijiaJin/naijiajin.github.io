@@ -12,14 +12,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[ROUND3, Platform: Kinect](http://example.com/)
+[ROUND3, Platform: Kinect2.0](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Undergraduates Projects
 
-- [Project 1 Title](http://example.com/)
+- [Beyond Eyes- Self Project, Platform: PC](http://example.com/)
 <img src="images/beyondcubecover.png"/>
 
 - [Project 2 Title](http://example.com/)
