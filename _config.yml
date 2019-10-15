@@ -1,14 +1,15 @@
 title: Naijia Jin # your name (or website title) here
 logo: "/images/me.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am now a candidate for Master of Entertainment Technology at Carnegie Mellon University. 
   I am a programmer and technical artist. I always want to express my ideas in the most modern, immersive 
-  and aesthetically appealing way. 
-  It is also part of my natural talent to integrate art and technology for design and expression. 
+  and aesthetically appealing way. Now I am a candidate for Master of Entertainment Technology at Carnegie Mellon University. 
+  It is part of my natural talent to integrate art and technology for design and expression. 
+  
   
   <br><br>
   Programmer, Technical Artist, Game Designer   
   <br><br>
+ 
   <a href="linkedin.com/in/naijia-jin-b33b45190">View My LinkedIn Profile</a>   
   
 theme: jekyll-theme-minimal
