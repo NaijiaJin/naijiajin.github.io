@@ -5,7 +5,7 @@
 ### Build Virtual Worlds 
 
 [ROUND1 Platform: HTC VIVE](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/round1cover.png"/>
 
 ---
 [ROUND2 Platform: Magic Leap](/pdf/sample_presentation.pdf)
