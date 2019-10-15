@@ -3,7 +3,7 @@
 ---
 
 ### Build Virtual Worlds 
-
+   
 [ROUND1, Platform: HTC VIVE](/sample_page)
 <img src="images/round1cover.png"/>
 
