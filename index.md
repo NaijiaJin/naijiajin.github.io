@@ -20,7 +20,7 @@
 ### Undergraduates Projects
 
 - [Beyond Eyes- Self Project, Platform: PC](http://naijiajin.github.io/beyondeye)
-<img src="images/beyondcubecover.png"/>()(http://naijiajin.github.io/beyondeye)  
+<img src="images/beyondcubecover.png"/> (http://naijiajin.github.io/beyondeye)  
 
 - [Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
