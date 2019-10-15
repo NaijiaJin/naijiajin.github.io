@@ -20,7 +20,6 @@
 ### Undergraduates Projects
 
 - [Beyond Eyes- Self Project, Platform: PC](http://naijiajin.github.io/beyondeye)
- <img src="images/beyondcubecover.png"/>
  
  <a href="http://google.com.au/" rel="some text">![Foo]<img src="images/beyondcubecover.png"/> </a>
 
