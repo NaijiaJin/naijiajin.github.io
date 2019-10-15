@@ -19,24 +19,23 @@
    
 ### Undergraduates Projects
 
-- [Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page)
- 
- <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcover.png"/> </a>
+[Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page) 
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcover.png"/> </a>
 
-- [Swordsman's Legend, Platformj: Kinect2.0](http://example.com/)
-<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png"/> </a>
+[Swordsman's Legend, Platformj: Kinect2.0](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png" width=900/> </a>
 
 
-- [Rick&Morty SuperBreakout, Platform: PC](http://example.com/)
+[Rick&Morty SuperBreakout, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/coverrm.png"/> </a>
 
-- [Shadow Dancer, 2D, Platform: PC](http://example.com/)
+[Shadow Dancer, 2D, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/shadowcover.png"/> </a>
 
-- [Game or Mom, 2D, PC](http://example.com/)
+[Game or Mom, 2D, PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/momcover.png"/> </a>
 
-- [Livingroom 3D max project](http://example.com/)
+[Livingroom 3D max project](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/livingroomcover.png"/> </a>
 
 
