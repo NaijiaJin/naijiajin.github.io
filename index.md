@@ -21,17 +21,17 @@
 
 - [Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page)
  
- <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcubecover.png"/> </a>
+ <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcover.png"/> </a>
 
-- [Project 2 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Swordsman's Legend, Platformj: Kinect2.0](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png"/> </a>
 
 
-- [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Rick&Morty SuperBreakout, 2D, Platform: PC](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/coverrm.png"/> </a>
 
-- [Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Shadow Dancer, 2D, Platform: PC](http://example.com/)
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/shadowcover.png"/> </a>
 
 - [Project 5 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
