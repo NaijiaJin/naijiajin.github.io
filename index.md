@@ -20,7 +20,7 @@
 ### Undergraduates Projects
 
 - [Project 1 Title](http://example.com/)
-<img src="Beyondcover.png"/>
+<img src="images/Beyondcover.png"/>
 
 - [Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
