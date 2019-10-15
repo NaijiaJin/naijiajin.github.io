@@ -23,7 +23,7 @@
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcover.png"/> </a>
 
 [Swordsman's Legend, Platformj: Kinect2.0](http://example.com/)
-<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png" width=900/> </a>
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/smlcover.png" /> </a>
 
 
 [Rick&Morty SuperBreakout, Platform: PC](http://example.com/)
