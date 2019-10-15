@@ -36,7 +36,7 @@
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/momcover.png"/> </a>
 
 [Livingroom 3D max project](http://example.com/)
-<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/livingroomcover.png" height=600/> </a>
+<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/livingroomcover.png" /> </a>
 
 
 ---
