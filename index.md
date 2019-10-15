@@ -15,7 +15,7 @@
 [ROUND3, "Goal" in the wall, Platform: Kinect2.0](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
------
+-----  
    
 ### Undergraduates Projects
 
