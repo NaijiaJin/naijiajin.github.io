@@ -5,15 +5,15 @@
 ### Build Virtual Worlds 
       
 [ROUND1, Platform: HTC VIVE](https://naijiajin.github.io/Round1)
-<img src="images/round1cover.png"/>
+<a href="https://naijiajin.github.io/Round1" rel="some text"><img src="images/round1cover.png"/></a>
 
 ---
 [ROUND2, Platform: Magic Leap](https://naijiajin.github.io/Round2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://naijiajin.github.io/Round2" rel="some text"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
 
 ---
 [ROUND3, "Goal" in the wall, Platform: Kinect2.0](https://naijiajin.github.io/Round3)
-<img src="images/goalcover.png"/> 
+<a href="https://naijiajin.github.io/Round3" rel="some text"><img src="images/goalcover.png"/></a>
 
 -----  
       
