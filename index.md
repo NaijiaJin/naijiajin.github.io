@@ -27,7 +27,7 @@
 
 
 [Rick&Morty SuperBreakout, Platform: PC](http://example.com/)
-<a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/coverrm.png"/> </a>
+<a href="https://naijiajin.github.io/RMbreakout" rel="some text"> <img src="images/coverrm.png"/> </a>
 
 [Shadow Dancer, 2D, Platform: PC](http://example.com/)
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/shadowcover.png"/> </a>
