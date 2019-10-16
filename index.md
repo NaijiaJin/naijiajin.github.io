@@ -13,13 +13,13 @@
 
 ---
 [ROUND3, "Goal" in the wall, Platform: Kinect2.0](https://naijiajin.github.io/Round3)
-<a href="https://naijiajin.github.io/Round3" rel="some text"><img src="images/goalcover.png"/></a>
+<a href="https://naijiajin.github.io/Round3" rel="some text"><img src="images/goalcover.png"/></a> 
 
 -----  
       
 ### Undergraduates Projects
 
-[Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page) 
+[Beyond Eyes- Self Project, Platform: PC](https://naijiajin.github.io/sample_page)     
 <a href="https://naijiajin.github.io/sample_page" rel="some text"> <img src="images/beyondcover.png"/> </a>
 
 [Swordsman's Legend, Platformj: Kinect2.0](http://example.com/)
