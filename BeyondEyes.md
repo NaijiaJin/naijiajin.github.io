@@ -6,7 +6,7 @@ Our design and development goal in this round is to build a virtual worlds that 
 ### My contribution:
 
 Torch fire effect with unity particle system 
-</b> 
+<b> </b> 
 Creepy hands dissolve effects with unity shader 
 
 
