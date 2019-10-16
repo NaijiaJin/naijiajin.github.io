@@ -1,16 +1,13 @@
-## This can be your internal website page / project page
+## Round 1 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Project description:
+Our design and development goal in this round is to build a virtual worlds that let guests help character A who's fear of character B. We created a story about helping a little girl overcome the fear of being bullied. The gameplay is guests need to burn out those creepy hands in her nightmire. The creepy hands reprensents viciousness that hurted the little girl. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### My contribution:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Torch fire effect with unity particle system 
+Creepy hands dissolve effects with unity shader 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
